@@ -6,9 +6,9 @@
 ## Introduction
 This is a code repository for a progressive web application. This app uses React with service workers.
 
-THis app was created following the Youtube video tutorial from [JavaScript Mastery](https://www.youtube.com/watch?v=IaJqMcOMuDM).
+This app was created following the Youtube video tutorial from [JavaScript Mastery](https://www.youtube.com/watch?v=IaJqMcOMuDM).
 
-You can click the link above to see the lie site depolyed on Netlify 
+You can click the link above to see the live site depolyed on Netlify and even download it if you like 
 
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
